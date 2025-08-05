@@ -1,8 +1,8 @@
 ## Hi! I’m Adil Khan ✨
 - 👀 I’m interested in coding.
 - 🌱 I’m currently college.
-- 💞️ I’m looking to collaborate with coding beginers
-- 📫 How to reach me ..
+- 💞️ I’m looking to collaborate with coding beginers.
+- 📫 How to reach me - Provided my gmail below.
 
 
 # 💻 Tech Stack:
