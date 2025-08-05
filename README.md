@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adilkhan01V
+## Hi! I’m Adil Khan 
 - 👀 I’m interested in coding.
 - 🌱 I’m currently in high school.
 - 💞️ I’m looking to collaborate with coding beginers
